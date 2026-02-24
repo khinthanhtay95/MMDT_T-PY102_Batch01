@@ -51,7 +51,7 @@
         "    \"PY102001001\"\n",
         "    \"\"\"\n",
         "    return \"PY102001027\"\n",
-        "submission_check()"
+        
       ],
       "metadata": {
         "colab": {
