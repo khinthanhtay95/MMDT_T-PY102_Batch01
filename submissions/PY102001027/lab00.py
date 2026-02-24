@@ -45,7 +45,7 @@
         "\n",
         "def submission_check():\n",
         "    \"\"\"\n",
-        "    Return your student ID as a string.\n",
+        "    Return your student ID as a string .\n",
         "\n",
         "    Example:\n",
         "    \"PY102001001\"\n",
