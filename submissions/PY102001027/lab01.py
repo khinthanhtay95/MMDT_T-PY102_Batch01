@@ -96,7 +96,7 @@ def doubleIt(head):
 
         if curr.next is None and carry:
             curr.next = Node(carry)
-            carry = 0
+            break
         curr = curr.next
     return reverseList(head)
 
