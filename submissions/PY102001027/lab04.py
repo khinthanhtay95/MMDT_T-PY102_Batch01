@@ -124,7 +124,7 @@ def find_py_files(root: TreeNode) -> list[str]:
     root: the TreeNode returned from build_submission_tree
     """
     find_result = []
-    values = preorder(root)
+    values =   preorder(root)
     current_folder= ""
     for v in values:
         if  not v.endswith(".py") and "." not in v and v!= root.value:
